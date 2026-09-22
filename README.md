@@ -1,10 +1,6 @@
 # Taller computacional: caos, conjunto de Mandelbrot y universalidad de Feigenbaum
 
-Curso de Sistemas Complejos — solución completa en Python (NumPy, SciPy, Matplotlib).
-Todas las cifras y figuras de este documento provienen de una ejecución real de [`taller_caos.py`](./taller_caos.py).
-
-> **Resultado principal.** δ₈ = 4.669198 (error 0.00008 % respecto de 4.669201609). Punto de acumulación r_∞ ≈ 3.5699457, equivalente a c_∞ ≈ -1.401155 sobre el eje real de Mandelbrot.
-
+Curso de Sistemas Complejos
 ## Requisitos
 
 ```bash
