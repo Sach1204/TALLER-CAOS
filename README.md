@@ -1,6 +1,9 @@
 # Taller computacional: caos, conjunto de Mandelbrot y universalidad de Feigenbaum
 
 Curso de Sistemas Complejos
+Santiago Parra
+Samuel Chaves
+Brayan Guerrero
 ## Requisitos
 
 ```bash
